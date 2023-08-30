@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.811787db.css",
+    "main.js": "/static/js/main.64f30019.js",
+    "static/js/787.f055211e.chunk.js": "/static/js/787.f055211e.chunk.js",
+    "static/media/img-4.png": "/static/media/img-4.3ddab6c29083e30039e8.png",
+    "static/media/img-1.png": "/static/media/img-1.845aedb2b5a970f275e9.png",
+    "static/media/img-3.png": "/static/media/img-3.0578c4170fa88669a157.png",
+    "static/media/banner-bg.png": "/static/media/banner-bg.1b32b4ae9dfd847807db.png",
+    "static/media/hirebest.png": "/static/media/hirebest.d966c58462d15f010ee2.png",
+    "static/media/opportunity.png": "/static/media/opportunity.246c49c29db38407f8c0.png",
+    "index.html": "/index.html",
+    "static/media/calender.svg": "/static/media/calender.c94b7bd44dd325e6cd121dab86a741ed.svg",
+    "static/media/account.svg": "/static/media/account.ae25e8440b1b8e7a87e865e8187915f3.svg",
+    "static/media/calendar_month_FILL0_wght400_GRAD0_opsz24.svg": "/static/media/calendar_month_FILL0_wght400_GRAD0_opsz24.865449c4d97ef9e19994a39dd8112cc3.svg",
+    "static/media/skill.svg": "/static/media/skill.d50ccffa6798b9d0ff2ac31e2f58fe26.svg",
+    "static/media/percent.svg": "/static/media/percent.76cec97d5a0d2a326988161055e59e3b.svg",
+    "static/media/phone.svg": "/static/media/phone.a112f372c28c78bf20116c22c21e6542.svg",
+    "static/media/people_black_24dp.svg": "/static/media/people_black_24dp.8bacbf28d2a5f41351cc118f8e1ec87a.svg",
+    "static/media/phone_iphone_FILL0_wght400_GRAD0_opsz24.svg": "/static/media/phone_iphone_FILL0_wght400_GRAD0_opsz24.8012cb7f25c7681ba9121674a05af038.svg",
+    "static/media/gender.svg": "/static/media/gender.234a9ce5556723326bdfb416f76726de.svg",
+    "static/media/checklist_rtl_black_24dp.svg": "/static/media/checklist_rtl_black_24dp.968eeb995dcfe823702ce6bbfca2082e.svg",
+    "static/media/grad.svg": "/static/media/grad.ff520ada995d7e3ee245dab1c080aa1b.svg",
+    "static/media/restart_alt_FILL0_wght400_GRAD0_opsz24.svg": "/static/media/restart_alt_FILL0_wght400_GRAD0_opsz24.4595c25191f761fdce58b7882a004652.svg",
+    "static/media/mail_FILL0_wght400_GRAD0_opsz24.svg": "/static/media/mail_FILL0_wght400_GRAD0_opsz24.51f03b4607e3d18f328bca825ed2f0a8.svg",
+    "static/media/room_black_24dp.svg": "/static/media/room_black_24dp.a2c95ea4bfd1c43fdf6b759af2ef985b.svg",
+    "static/media/work_white_24dp.svg": "/static/media/work_white_24dp.89ca01a2dde951042f54ff975f3423cd.svg",
+    "static/media/edu.svg": "/static/media/edu.5ca78e024a35a2ade6335489700b420a.svg",
+    "static/media/mail.svg": "/static/media/mail.c80648458e9be1216163c96f6d935d30.svg",
+    "main.811787db.css.map": "/static/css/main.811787db.css.map",
+    "main.64f30019.js.map": "/static/js/main.64f30019.js.map",
+    "787.f055211e.chunk.js.map": "/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.811787db.css",
+    "static/js/main.64f30019.js"
+  ]
+}
